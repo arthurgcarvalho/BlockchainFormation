@@ -17,7 +17,7 @@ import BlockchainFormation.blockchain_specifics.client.Client_Network
 import BlockchainFormation.blockchain_specifics.couchdb.Couchdb_Network
 import BlockchainFormation.blockchain_specifics.empty.Empty_Network
 #import BlockchainFormation.blockchain_specifics.eos.Eos_Network
-import BlockchainFormation.blockchain_specifics.ethermint.Ethermint_Network
+#import BlockchainFormation.blockchain_specifics.ethermint.Ethermint_Network
 import BlockchainFormation.blockchain_specifics.fabric.Fabric_Network
 import BlockchainFormation.blockchain_specifics.geth.Geth_Network
 import BlockchainFormation.blockchain_specifics.indy.Indy_Network
